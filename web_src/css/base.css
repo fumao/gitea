@@ -474,7 +474,7 @@ img.ui.avatar,
 
 .full.height {
   flex-grow: 1;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
 }
 
 .status-page-error {
