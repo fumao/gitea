@@ -1414,3 +1414,18 @@ table th[data-sortt-desc] .svg {
   overflow: hidden !important;
   text-overflow: ellipsis !important;
 }
+::-webkit-scrollbar {
+  width: 5px;
+  height:5px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  box-shadow: inset 0 0 5px rgb(45 45 45 / 20%);
+  background: #686666;
+  margin:5px; 
+}
+
+::-webkit-scrollbar-track{
+  width:5px;
+}
